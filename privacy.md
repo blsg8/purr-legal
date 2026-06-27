@@ -73,4 +73,4 @@ If we update this policy, we will change the "Effective" date above and post the
 
 ## Contact
 
-Questions about this policy: bastiansoto.bs@gmail.com
+Questions about this policy: purr.katlabs@gmail.com
