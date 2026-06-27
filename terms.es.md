@@ -76,4 +76,4 @@ Si alguna disposición de este Acuerdo se considera inejecutable, las demás dis
 
 ## Contacto
 
-Consultas sobre estos términos: bastiansoto.bs@gmail.com
+Consultas sobre estos términos: purr.katlabs@gmail.com
