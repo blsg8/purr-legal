@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-**Vigente desde: 8 de mayo de 2026**
+**Vigente desde: 27 de junio de 2026**
 
 Purr es una aplicación de notas para macOS desarrollada por KatLabs (en adelante "nosotros"). Esta Política de Privacidad explica qué datos maneja Purr y de qué manera.
 
@@ -46,6 +46,12 @@ La sincronización corre solamente en la cadencia que tú elijas (manual, diaria
 Algunas funciones (búsqueda semántica, sugerencias inteligentes, embeddings) usan modelos de machine learning que corren íntegramente en tu Mac. No se envía contenido a OpenAI, Anthropic, Google ni a ningún otro proveedor externo de IA.
 
 Si decides configurar opcionalmente una instancia local de Ollama, las consultas viajan únicamente a tu `localhost` — nunca a nosotros ni a terceros.
+
+## Conexión de clientes de IA externos (MCP)
+
+Purr incluye un servidor MCP (Model Context Protocol) opcional que puedes habilitar para permitir que clientes de IA que tú elijas —como Claude Code o Codex— lean y escriban tus notas. Se ejecuta localmente y solo cuando tú lo inicias.
+
+Si conectas uno de estos clientes, las notas y el contenido que compartas con él se envían y son procesados por ese cliente y su proveedor de IA (por ejemplo, Anthropic u OpenAI) bajo sus propias políticas de privacidad, no la nuestra. No participamos en ese intercambio ni tenemos acceso a él. Las funciones de IA en el dispositivo descritas arriba nunca envían tu contenido a terceros.
 
 ## Compras
 
