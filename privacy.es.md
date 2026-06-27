@@ -73,4 +73,4 @@ Si actualizamos esta política, modificaremos la fecha "Vigente desde" arriba y 
 
 ## Contacto
 
-Consultas sobre esta política: bastiansoto.bs@gmail.com
+Consultas sobre esta política: purr.katlabs@gmail.com
