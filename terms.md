@@ -76,4 +76,4 @@ If any provision of this Agreement is held unenforceable, the remaining provisio
 
 ## Contact
 
-Questions about these terms: bastiansoto.bs@gmail.com
+Questions about these terms: purr.katlabs@gmail.com
